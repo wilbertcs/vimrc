@@ -1,8 +1,7 @@
 "=============================================================================
 " File: wilbert.vim
 " Author: Dave Brown
-" Last Change: 7th May 2015
-" Version: 0.3
+" Created: A Very Long Time Ago
 "-----------------------------------------------------------------------------
 " Normally, this file will reside in the vimfiles/plugins directory and be
 " automatically sourced.  If not, you must manually source this file " using
